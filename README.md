@@ -48,7 +48,7 @@ On your terminal, run the code below
 git clone https://github.com/E-Zbox/news_app.git
 ```
 
-Once you have successfully cloned the repository, `cd news_app`.
+Once you have successfully cloned the repository, `cd news_app` on your terminal.
 
 While in the root directory of the project, run the code below on your terminal
 
