@@ -111,8 +111,15 @@ headers: {
 
 ### Live Version of App
 
--   [**Node Project**](https://)
--   [**Postman Documentation**](https://)
+-   Heroku version of [**Node Project**](https://murmuring-brook-56234.herokuapp.com/search?q=Apple&from=2022/8/31)
+-   [**Postman Documentation**](https://documenter.getpostman.com/view/16765738/VUxPv7Gn/)
+
+**Screenshot of Live Project**
+
+[Screenshot 1](./screenshots/Screenshot%201.png)
+[Screenshot 2](./screenshots/Screenshot%202.png)
+[Screenshot 3](./screenshots/Screenshot%203.png)
+[Screenshot 4](./screenshots/Screenshot%204.png)
 
 ### Credits
 
