@@ -1,4 +1,4 @@
-# News App Backend
+# News App Backend 📰
 
 ### Table of Contents
 
