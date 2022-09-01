@@ -12,6 +12,7 @@
     -   [Testing the API](#testing-the-api)
 -   [Live Version of App](#live-version-of-app)
 -   [Credits](#credits)
+-   [Author](#author)
 
 ## Description
 
@@ -19,14 +20,14 @@ News App is a mini data-as-a-service project built on top of [NewsCatcher API](h
 
 **NOTE** This application is not affiliated in anyway to the [NewsCatcher API](https://docs.newscatcherapi.com/) or their developers. This is merely a side project
 
-### Technologies Used
+### Technologies Used 👩‍💻🏗
 
 This project was built using:
 
 -   NodeJS, Express.js
 -   Axios (for fetching data)
 
-## Launching the Project
+## Launching the Project 🚀🚀
 
 To be able to run this project on your local machine, make sure you have [NodeJS](https://nodejs.org/) installed on your computer.
 
@@ -39,7 +40,7 @@ npm --version
 npx --version
 ```
 
-### Cloning and Installing dependencies
+### Cloning and Installing dependencies ⚙
 
 On your terminal, run the code below
 
@@ -69,7 +70,7 @@ Run the code below on your terminal
 npm run dev
 ```
 
-### Testing the API
+### Testing the API 🧪
 
 On your browser or Postman, run the following code below to get news articles about "Elon Musk"
 
@@ -90,10 +91,16 @@ headers: {
 }
 ```
 
-**Phew, Congratulations 🎉🍾 you just made your first request**
+**Phew.**
+
+**Congratulations 🎉🍾 you successfully made your first request**
 
 ### Live Version of App
 
 ### Credits
 
 [NewsCatcher API](https://docs.newscatcherapi.com/)
+
+### Author
+
+Developed by [Ononogbu Ebenezer](https://twitter.com/ceoCodes)
