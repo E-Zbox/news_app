@@ -18,7 +18,7 @@
 
 News App is a mini data-as-a-service project built on top of [NewsCatcher API](https://docs.newscatcherapi.com/) to make easier the process of using the services provided by NewsCatcher API.
 
-**NOTE** This application is not affiliated in anyway to the [NewsCatcher API](https://docs.newscatcherapi.com/) or their developers. This is merely a side project
+**NOTE** This application is not affiliated in anyway to the [NewsCatcher API](https://docs.newscatcherapi.com/) or their developers. This is merely a side project.
 
 ### Technologies Used 👩‍💻🏗
 
@@ -61,6 +61,20 @@ After installation, go to [NewsCatcher API](https://docs.newscatcherapi.com/) an
 ### Environment dependencies
 
 Update your `.env.development` file in the root directories with your unique API key gotten from the NewsCatcher API.
+
+Now, set your NODE_ENV variable on your terminal with this code
+
+-   For Linux or mac OS users
+
+```shell
+export NODE_ENV=development
+```
+
+-   For Windows users
+
+```shell
+SET NODE_ENV=development
+```
 
 ### Running the code
 
