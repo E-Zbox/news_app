@@ -1,0 +1,37 @@
+{
+    "name": "news_app",
+    "version": "1.0.0",
+    "description": "This is an Express application that is built on top of the Newscatcher (https://newscatcherapi.com/free-news-api) API",
+    "main": "./src/index.js",
+    "scripts": {
+        "start": "node ./src/index",
+        "dev": "nodemon ./src/index",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/E-Zbox/news_app.git"
+    },
+    "keywords": [
+        "news_app",
+        "newscatcher",
+        "api"
+    ],
+    "author": "Ononogbu Ebenezer",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/E-Zbox/news_app/issues"
+    },
+    "homepage": "https://github.com/E-Zbox/news_app#readme",
+    "dependencies": {
+        "axios": "^0.27.2",
+        "dotenv": "^16.0.1",
+        "express": "^4.18.1"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.19"
+    },
+    "nodemonConfig": {
+        "ext": "js,mjs,json"
+    }
+}
