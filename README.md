@@ -62,7 +62,7 @@ After installation, go to [NewsCatcher API](https://docs.newscatcherapi.com/) an
 
 Update your `.env.development` file in the root directories with your unique API key gotten from the NewsCatcher API.
 
-Now, set your NODE_ENV variable on your terminal with this code
+Now, set your **NODE_ENV** variable on your terminal with this code
 
 -   For Linux or mac OS users
 
